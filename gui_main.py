@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 18 16:37:36 2021
 
-@author: sheet
-"""
 
 import sqlite3
 import tkinter  as tk 
